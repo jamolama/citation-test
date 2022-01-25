@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ames"
+  given-names: "Jeff"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Ames research software"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2020-01-28
+url: "https://github.com/github/linguist"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Ames"
+    given-names: "Jeff"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 1
+  start: 1 # First page number
+  end: 99 # Last page number
+  title: "Ames research software"
+  issue: 1
+  volume: 1
+  year: 2022
