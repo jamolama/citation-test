@@ -3,10 +3,10 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Ames"
   given-names: "Jeff"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "Ames research software"
+  orcid: "https://orcid.org/0000-0003-3582-3835"
+title: "Low-Overhead In Situ Visualization Using Halo Replay"
 version: 2.0.4
-doi: 10.5281/zenodo.1234
+doi: 10.1109/ldav48142.2019.8944265
 date-released: 2020-01-28
 url: "https://github.com/github/linguist"
 preferred-citation:
@@ -14,13 +14,13 @@ preferred-citation:
   authors:
   - family-names: "Ames"
     given-names: "Jeff"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  doi: "10.0000/00000"
-  journal: "Journal Title"
+    orcid: "https://orcid.org/0000-0003-3582-3835"
+  doi: "10.1109/ldav48142.2019.8944265"
+  journal: "2019 IEEE 9th Symposium on Large Data Analysis and Visualization (LDAV)"
   month: 1
-  start: 1 # First page number
-  end: 99 # Last page number
-  title: "Ames research software"
+  start: 16 # First page number
+  end: 26 # Last page number
+  title: "Low-Overhead In Situ Visualization Using Halo Replay"
   issue: 1
   volume: 1
   year: 2022
